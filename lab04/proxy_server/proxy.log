@@ -1,4 +1,12 @@
-2025-03-14 15:27:19,672 URL: /google.com, Status: 301
-2025-03-14 15:30:48,141 URL: /github.com, Status: 301
-2025-03-14 15:38:58,015 URL: /yandex.ru, Status: 301
-
+2025-03-15 16:30:53,651 URL: /www.google.com, Status: 302
+2025-03-15 16:30:56,081 URL: /www.google.com, Status: 302
+2025-03-15 16:31:15,309 URL: /www.yandex.ru, Status: 301
+2025-03-15 16:31:49,363 URL: /youtube.com, Status: 301
+2025-03-15 16:32:13,765 URL: /unknown.com, Status: 200
+2025-03-15 16:32:16,657 Error: [Errno 11001] getaddrinfo failed
+2025-03-15 16:38:10,600 URL: /httpbin.org/post, Status: 200
+2025-03-15 16:45:47,112 URL: example.com/, Status: 200, Cached and served
+2025-03-15 16:45:53,455 URL: example.com/, Status: 304, Served from cache
+2025-03-15 16:48:52,559 Blocked request to /example.com
+2025-03-15 16:48:52,934 Error: [Errno 11001] getaddrinfo failed
+2025-03-15 16:50:06,006 Blocked request to example.com/
